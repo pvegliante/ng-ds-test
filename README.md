@@ -20,6 +20,12 @@
 
 5 Now add 29. Is the tree balanced? If not, which rotation needs to be done? (Use the following rotation as an example: rightRotation(30), or leftRotation(10))
 
+                                  30
+                            15         45
+                         10    20         50
+                                  27
+                                     29
+
     leftRotation(20)
 
 Consider the following tree:
